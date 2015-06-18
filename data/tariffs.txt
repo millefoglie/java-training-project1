@@ -1,0 +1,92 @@
+{
+	"id" : 1,
+	"type" : "prepaid",
+	"name" : "Blau.de Basic",
+	"monthly" : 0,
+	"innerCalls" : 0.09,
+	"outerCalls" : 0.29,
+	"landlines" : 0.09,
+	"sms" : 0.09,
+	"internet" : 0.24,
+	"smsPackage" : 0,
+	"dataPackage" : 10,
+	"activation" : 4.90
+}
+
+{
+	"id" : 2,
+	"type" : "prepaid",
+	"name" : "Blau.de Smart",
+	"monthly" : 0,
+	"innerCalls" : 0.09,
+	"outerCalls" : 0.29,
+	"landlines" : 0.09,
+	"sms" : 0.09,
+	"internet" : 0.24,
+	"smsPackage" : 200,
+	"dataPackage" : 200,
+	"activation" : 6.90
+}
+
+{
+	"id" : 3,
+	"type" : "prepaid",
+	"name" : "Blau.de Surfen",
+	"monthly" : 0,
+	"innerCalls" : 0.09,
+	"outerCalls" : 0.29,
+	"landlines" : 0.09,
+	"sms" : 0.09,
+	"internet" : 0.1,
+	"smsPackage" : 100,
+	"dataPackage" : 1000,
+	"activation" : 9.90
+}
+
+{
+	"id" : 4,
+	"type" : "contract",
+	"name" : "Blau.de contract Basic",
+	"monthly" : 9.99,
+	"innerCalls" : 0.09,
+	"outerCalls" : 0.69,
+	"abroadCalls" : 1.99,
+	"dailyMinutes" : 60,
+	"landlines" : 0.09,
+	"sms" : 0.09,
+	"internet" : 0.24,
+	"smsPackage" : 200,
+	"dataPackage" : 500
+}
+
+{
+	"id" : 5,
+	"type" : "contract",
+	"name" : "Blau.de contract Pro",
+	"monthly" : 24.99,
+	"innerCalls" : 0.09,
+	"outerCalls" : 0.49,
+	"abroadCalls" : 1.29,
+	"dailyMinutes" : 120,
+	"landlines" : 0.09,
+	"sms" : 0.09,
+	"internet" : 0.12,
+	"smsPackage" : 400,
+	"dataPackage" : 3000
+}
+
+{
+	"id" : 6,
+	"type" : "contract",
+	"name" : "Blau.de contract Ultra",
+	"monthly" : 49.99,
+	"innerCalls" : 0.09,
+	"outerCalls" : 0.29,
+	"abroadCalls" : 0.99,
+	"dailyMinutes" : 200,
+	"landlines" : 0.09,
+	"sms" : 0.09,
+	"internet" : 0.09,
+	"smsPackage" : 1000,
+	"dataPackage" : 10000
+}

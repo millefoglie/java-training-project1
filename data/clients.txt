@@ -1,0 +1,12 @@
+For correct parsing there should be no line-breaks within entries.
+{"name" : "John", "surname" : "Smith", "id" : 1, "tariff_id" : 1 }
+{"name" : "Anna", "surname" : "Smith", "id" : 2, "tariff_id" : 2 }
+{"name" : "Alice", "surname" : "Cooper", "id" : 3, "tariff_id" : 1 }
+
+{"name" : "Bill", "surname" : "Hillie", "id" : 4, "tariff_id" : 3 }
+{"name" : "Jon", "surname" : "Snow", "id" : 5, "tariff_id" : 1 }
+{"name" : "Harry", "surname" : "Potter", "id" : 6, "tariff_id" : 4 }
+
+{"name" : "Gene", "surname" : "Simmons", "id" : 7, "tariff_id" : 5 }
+{"name" : "Frodo", "surname" : "Baggins", "id" : 8, "tariff_id" : 6 }
+{"name" : "Mary", "surname" : "Poppins", "id" : 9, "tariff_id" : 4 }
