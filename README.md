@@ -13,5 +13,5 @@ The Mobile Company data for clients and tariffs is stored as text files. This da
 
 ## Things which could be improved
 
-- Currently all the data is stored as text files using JSON objects. The clients JSON strings should one line per entry (as it allowed for writing less code). Thus, it is possible to use 'javax.json' instead and loosen such requirements on the text formatting. Ideally, the data should be stored in a database.
+- Currently all the data is stored as text files using JSON objects. The clients JSON strings should one line per entry (as it allowed for writing less code). Thus, it is possible to use `javax.json` instead and loosen such requirements on the text formatting. Ideally, the data should be stored in a database.
 - The command-line interface can also be enhanced. For example, by providing more commands and more sofisticated filters.
